@@ -1,0 +1,13 @@
+# Generated at runtime
+organized/
+inbox/
+logs/
+venv/
+__pycache__/
+agent/__pycache__/
+*.pyc
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db 
