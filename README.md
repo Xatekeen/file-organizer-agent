@@ -10,7 +10,7 @@
 [![Agentic AI](https://img.shields.io/badge/Agentic-AI-8A2BE2?style=flat-square)](https://github.com)
 [![Course](https://img.shields.io/badge/Course-Operating%20Systems-1B4332?style=flat-square)](https://github.com)
 
-*Built as a university Operating Systems course project — Soongsil University*
+*Built as a university Operating Systems course project — Sejong University*
 
 </div>
 
@@ -275,5 +275,5 @@ MIT License — free to use, modify, and distribute.
 ---
 
 <div align="center">
-<sub>Built with Claude (Anthropic) · Soongsil University · Operating Systems Course</sub>
+<sub>Built with Claude (Anthropic) · Sejong University · Operating Systems Course</sub>
 </div>
